@@ -48,15 +48,8 @@ imdb-data-analysis/
 │ ├── query02_three_methods.sql
 │ └── ... # All 29 queries solved by 3 methods each
 │
-├── report/
-│ ├── executive_summary.md # Key findings and insights
-│ ├── recommendations.md # Business suggestions
-│ └── visuals_charts/ # Optional: Graphs/plots
-│
-├── notebooks/
-│ └── imdb_analysis.ipynb # (Optional) Jupyter Notebook with plots
-│
-├── project_report.pdf # Final compiled report
+|
+├── Executive Summary - Team 9.pdf # Final compiled report
 └── README.md # This file
 
 
